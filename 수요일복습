@@ -1,0 +1,14 @@
+# a = ['ididid','1251']
+# while True:
+#     b = input('아이디 입력하세요: ')
+#     if b == a[0]:
+#         print('T')
+#     else:
+#         continue
+#     c = input('비번을 입력하세요: ')
+#     if c == a[1]:
+#         print('T')
+#         print('로그인 성공')
+#         break
+#     else:
+#         continue
